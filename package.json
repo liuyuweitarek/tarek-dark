@@ -3,6 +3,20 @@
   "displayName": "Tarek Dark",
   "description": "Tarek Theme!",
   "version": "0.0.1",
+  "publisher": "LiuYuweiTarek",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuyuweitarek/tarek-dark"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Python Semantic Highlighting",
+    "Python",
+    "Teal",
+    "Mint",
+    "liuyuweitarek"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
