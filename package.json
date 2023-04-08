@@ -2,7 +2,7 @@
   "name": "tarek-dark",
   "displayName": "Tarek Dark",
   "description": "Tarek Theme!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "LiuYuweiTarek",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "liuyuweitarek"
   ],
   "engines": {
-    "vscode": "^1.69.2"
+    "vscode": "^1.13.0"
   },
   "categories": [
     "Themes"

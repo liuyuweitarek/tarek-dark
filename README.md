@@ -1,4 +1,4 @@
-# Tarek Dark 
+# [Tarek Dark](https://marketplace.visualstudio.com/items?itemName=LiuYuweiTarek.tarek-dark) 
 
 This is the VS Code theme that I often use for work when I need to focus. It also supports semantic highlighting in Python, which is perfect for my job since I work with Python.
 
