@@ -548,7 +548,46 @@
 				"foreground": "#21bed6",
 				"fontStyle": ""
 			}
-		}
+		},
+        {
+            "name": "Yaml Key ",
+            "scope": "entity.name.tag.yaml",
+                "settings": {
+                    "foreground": "#2df8a0"
+                }
+        },
+        {
+            "name": "Python DocString ",
+            "scope": "string.quoted.docstring.multi.python",
+                "settings": {
+                    "foreground": "#5d94a4",
+                    "fontStyle": "italic"
+                }
+        },
+        {
+            "name": "Python Decorator",
+            "scope": ["support.type.python"],
+                "settings": {
+                    "foreground": "#1a717e",
+                    "fontStyle": "italic"
+                }
+        },
+        {
+            "name": "Python Name Decorator Punctuation ",
+            "scope":"entity.name.function.decorator.python",
+            "settings": {
+                "foreground": "#7d9ea4",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Python comment hash ",
+            "scope": "comment.line.number-sign.python",
+            "settings": {
+                "foreground": "#8299c2",
+                "fontStyle": ""
+            }
+        }
     ],
     "colors": {
         "foreground":"#ffffff",
